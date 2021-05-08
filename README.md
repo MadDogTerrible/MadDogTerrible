@@ -1,4 +1,3 @@
 - Greetings! You've found @MadDogTerrible
-- Utter newb here. I read a line of QMK instructions; smash keyboard until desired output appears, repeat.
 - Any minute now, my machine is going to pack its things and walk out the door and steal my pickup truck.
 - 😠🐕💔
